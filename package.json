@@ -4,10 +4,7 @@
 	"description": "my site",
 	"main": "lib/index.cjs",
 	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/titaniumnetwork-dev/Ultraviolet.git"
-	},
+	
 	"files": [
 		"dist",
 		"lib",
